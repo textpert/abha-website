@@ -109,6 +109,13 @@ a:hover{
   float:right;
 }
 
+.skills-img3 {
+  margin-right: 20px;
+  height: 120px;
+  width: 120px;
+  float: left;
+}
+
 .skill-row{
   margin: auto;
   width:50%;
